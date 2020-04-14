@@ -1,0 +1,91 @@
+[33mcommit 39b05a9976c3c9226a78b40c6c3e1c7d8f995492[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 1d84da2 90b149f
+Author: wang526 <1294013212@qq.com>
+Date:   Mon Apr 13 19:08:40 2020 +0800
+
+    merge with no-ff
+
+[33mcommit 90b149f03888e26fcb7c3104844d27b0bd723c6d[m[33m ([m[1;32mdev[m[33m)[m
+Author: wang526 <1294013212@qq.com>
+Date:   Mon Apr 13 18:11:44 2020 +0800
+
+    add merge
+
+[33mcommit 1d84da21747a86330c4b316da180d5460ead8456[m
+Merge: d0a5990 3c51c30
+Author: wang526 <1294013212@qq.com>
+Date:   Mon Apr 13 17:35:25 2020 +0800
+
+    conflict fixed
+
+[33mcommit d0a5990f26b9a8cf85be4d4a6863d146573af0f9[m
+Author: wang526 <1294013212@qq.com>
+Date:   Mon Apr 13 17:28:10 2020 +0800
+
+    & simple
+
+[33mcommit 3c51c30a4927c8b6672543c670f77ed328fb6e5a[m
+Author: wang526 <1294013212@qq.com>
+Date:   Mon Apr 13 17:25:57 2020 +0800
+
+    AND simple
+
+[33mcommit a1e9910989cbcc9e826cee9a496ace7ab218fbd6[m
+Author: wang526 <1294013212@qq.com>
+Date:   Fri Apr 10 19:45:23 2020 +0800
+
+    branch test
+
+[33mcommit f6beb8027dc5b024a97a6dc327016ee5af038a28[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: wang526 <1294013212@qq.com>
+Date:   Wed Apr 8 18:26:36 2020 +0800
+
+    remove test.txt
+
+[33mcommit 683ca5a0666b320de819716434f3527ef2192b78[m
+Author: wang526 <1294013212@qq.com>
+Date:   Wed Apr 8 18:22:45 2020 +0800
+
+    add test.txt
+
+[33mcommit cd84ba21a1c4726b6187227f787625817aa9af87[m
+Author: wang526 <1294013212@qq.com>
+Date:   Wed Apr 8 18:04:15 2020 +0800
+
+    C
+
+[33mcommit 3343327243093707ef6494b4d0315dfc7ba9460d[m
+Author: wang526 <1294013212@qq.com>
+Date:   Wed Apr 8 17:56:35 2020 +0800
+
+    B
+
+[33mcommit 01fa263eb63949922608c12cdb2cca7b66701a53[m
+Author: wang526 <1294013212@qq.com>
+Date:   Wed Apr 8 17:36:24 2020 +0800
+
+    understand how stage works
+
+[33mcommit 51f6ca1d9cec8e3381b66bef13fef8c534118f56[m
+Author: wang526 <1294013212@qq.com>
+Date:   Wed Apr 8 17:30:41 2020 +0800
+
+    A
+
+[33mcommit 2bdbeb30b0330738ded61572b4fd48f7adca9183[m
+Author: wang526 <1294013212@qq.com>
+Date:   Wed Apr 8 16:39:31 2020 +0800
+
+    append GPL
+
+[33mcommit 4294ed413e43d298bf92475ee774a6e91a7b9e75[m
+Author: wang526 <1294013212@qq.com>
+Date:   Wed Apr 8 16:26:12 2020 +0800
+
+    add distribute
+
+[33mcommit b7c9b1b576502e65a364442962d567c411b2dfb9[m
+Author: wang526 <1294013212@qq.com>
+Date:   Tue Apr 7 15:49:54 2020 +0800
+
+    wrote a readme file
